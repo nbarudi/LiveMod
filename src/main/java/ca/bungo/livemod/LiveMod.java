@@ -1,4 +1,4 @@
-package net.fabricmc.example;
+package ca.bungo.livemod;
 
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
